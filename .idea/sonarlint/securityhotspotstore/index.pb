@@ -9,3 +9,5 @@ U
 %contracts/shipping-documentation.clar,3/c/3c910bbba467d7af47522b90102f318642bc6aa4
 T
 $tests/shipping-documentation.test.ts,7/2/727ccf556a3c637c564ee9d54eacb43a97ec6fe1
+>
+.gitattributes,2/4/24139dae656713ba861751fb2c2ac38839349a7a
